@@ -1,9 +1,9 @@
 function App() {
   
   return (
-    <>
-     heyy there
-    </>
+   <div className="text-8xl">
+    heyy there
+   </div>
   )
 }
 
